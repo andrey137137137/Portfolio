@@ -41,7 +41,7 @@
     "postcss-short": "^5.0.0",
     "postcss-short-border": "^4.0.0",
     "postcss-short-text": "^1.1.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.0.1",
     "sass-resources-loader": "^2.0.0",
